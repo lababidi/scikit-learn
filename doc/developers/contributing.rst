@@ -249,7 +249,7 @@ how to set up your git repository:
 
     .. prompt:: bash $
 
-       pip install cython pytest pytest-cov flake8 mypy
+       pip install cython pytest pytest-cov flake8 mypy wheel
 
 5. Install scikit-learn in editable mode:
 
